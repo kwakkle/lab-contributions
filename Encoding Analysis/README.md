@@ -14,7 +14,7 @@ Each row of the figure corresponds to a stimulus frame (e.g., 7, 12, 17, 22, 27)
 - **Left column**: Raw ΔF from average trial
 - **Right column**: Encoding strength (z-score heatmap)
 
-![Encoding Output](./OE15%20Expert.png)
+![Encoding Output](./Encoding_Example.png)
 
 ##
 
