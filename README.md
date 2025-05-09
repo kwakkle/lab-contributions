@@ -4,7 +4,7 @@ I am a graduate student in the **UCR Biomedical Sciences Master's Program**, and
 
 ## My Contributions
 
-- Conducted **computational neuroscience research** on predictive coding and cortical sensory filtering
+- Conducted computational neuroscience research on predictive coding and cortical sensory filtering
 - Applied **machine learning methods** including:
   - **Principal Component Analysis (PCA)**
   - **Linear Discriminant Analysis (LDA)**
