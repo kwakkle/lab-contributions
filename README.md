@@ -1,25 +1,27 @@
-# 🧠 Encoding-Analysis
+This repository contains my contribution to the **Zagha Lab** at the University of California, Riverside. Under the guidance of PhD candidate **Dominic Garcia**, this analysis was developed as part of an ongoing project investigating **predictive processing** and **selective sensory filtering** in mice using widefield calcium imaging.
 
-Developed under the guidance of Dr. Edward Zagha and Dominic Garcia in the Zagha Lab, this analysis script evaluates calcium imaging data from GCaMP6s mice during visual sequence discrimination tasks. This analysis aligns neural activity to specific visual stimulus frames (e.g., "AAAA", "ABCD").
+I am a graduate student in the **UCR Biomedical Sciences Master's Program**, and I joined the Zagha Lab in **September 2024**.
 
-## What This Script Does
+## My Contributions
 
-- Visualizes ΔF images from trial-averaged activity
-- Computes encoding strength (AUC → z-score) on a per-pixel basis
-- Compares stimulus-specific activity vs. other time points
-- Outputs a figure with raw ΔF on the left, encoding strength on the right
-  
-## Example Output
+- Conducted **computational neuroscience research** on predictive coding and cortical sensory filtering
+- Applied **machine learning methods** including:
+  - **Principal Component Analysis (PCA)**
+  - **Linear Discriminant Analysis (LDA)**
+- Performed **stereotaxic surgeries** for headpost implantation
+- Trained mice on **behavioral discrimination tasks**
+- Utilized **widefield calcium imaging** to capture cortical dynamics
+- Designed and implemented MATLAB workflows for:
+  - Data preprocessing
+  - Encoding and statistical analysis (repeated measures ANOVA, mixed-effects models)
+  - Scientific visualization for presentations and publications
 
-Each row of the figure corresponds to a stimulus frame (e.g., 7, 12, 17, 22, 27):
+## Repository Contents
 
-- **Left column**: Raw ΔF from average trial
-- **Right column**: Encoding strength (z-score heatmap)
+- `encoding_analysis.m`: 
 
-![Encoding Output](./OE15%20Expert.png)
+## Lab Information
 
-##
-
-**Zagha Lab** – UC Riverside
-- PI: Dr. Edward Zagha
-- Focus: Neural dynamics of sensory processing and cortical control
+- **Zagha Lab**, University of California, Riverside  
+- 🧑‍🏫 PI: Dr. Edward Zagha  
+- 🔬 Research Focus: Neural mechanisms of sequence learning, sensory filtering, and motor control
