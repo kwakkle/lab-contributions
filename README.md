@@ -18,7 +18,7 @@ I am a graduate student in the **UCR Biomedical Sciences Master's Program**, and
 
 ## Repository Contents
 
-- `encoding_analysis.m`: 
+- [Encoding Analysis](Encoding%20Analysis/) - Main MATLAB script for stimulus-locked encoding analysis
 
 ## Lab Information
 
