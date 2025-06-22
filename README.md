@@ -1,4 +1,4 @@
-This repository contains my contribution to the **Zagha Lab** at the University of California, Riverside. Under the guidance of PhD candidate **Dominic Garcia**, this analysis was developed as part of an ongoing project investigating **predictive processing** and **selective sensory filtering** in mice using widefield calcium imaging.
+This repository contains my contribution to the **Zagha Lab** at the University of California, Riverside. Under the guidance of PhD candidate **Dominic Garcia**, this analysis was developed as part of an ongoing project investigating **sequence learning** and **selective sensory filtering** in mice using widefield calcium imaging.
 
 I am a graduate student in the **UCR Biomedical Sciences Master's Program**, and I joined the Zagha Lab in **September 2024**.
 
