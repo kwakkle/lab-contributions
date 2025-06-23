@@ -13,7 +13,7 @@ I am a graduate student in the **UCR Biomedical Sciences Master's Program**, and
 - Utilized **widefield calcium imaging** to capture cortical dynamics
 - Designed and implemented MATLAB workflows for:
   - Data preprocessing
-  - Encoding and statistical analysis (repeated measures ANOVA, mixed-effects models)
+  - Encoding and statistical analysis (repeated measures ANOVA, T-tests)
   - Scientific visualization for presentations and publications
 
 ## Repository Contents
